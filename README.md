@@ -57,7 +57,7 @@ Next I used the kmeans.predict method to predict which cluster 2 made-up data po
 ```
 One of the test points was added to the Versicolor cluster and the other was added to the Virginica cluster. Below is a graph of the 3 clusters as well as the test points. 
 
-
+![IrisGraphs](https://user-images.githubusercontent.com/60262898/102213359-8a55dc80-3ece-11eb-9639-aabdd53af1c4.png)
 
 
 
